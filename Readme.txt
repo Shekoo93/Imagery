@@ -1,3 +1,8 @@
+The orignal VAE was driven from: https://github.com/lyeoni/pytorch-mnist-VAE/blob/master/pytorch-mnist-VAE.ipynb.
+
+For more infromation about the MLR model visit: https://www.biorxiv.org/content/10.1101/2021.02.07.430171v3.full (code: https://github.com/Shekoo93/MLR)
+
+
 1. Run the Training.py file
 
 2. save the model in output 1
